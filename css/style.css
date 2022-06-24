@@ -334,9 +334,6 @@ header.shadow .logo {
   .home-subtitle {
     font-size: 0.9rem;
   }
-  .home {
-    min-height: 300px;
-  }
   .post-box {
     padding: 10px;
   }
