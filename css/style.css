@@ -248,6 +248,14 @@ header.shadow .logo {
 .sub-heading {
   font-size: 1.2rem;
 }
+.sub-heading-1 {
+  font-size: 1.2rem;
+  text-align: center;
+}
+.sub-heading-2 {
+  font-size: 1.2rem;
+  text-align: right;
+}
 .post-text {
   font-size: 1rem;
   line-height: 1.7rem;
